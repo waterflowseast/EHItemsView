@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EHItemsView_Example' do
+  pod 'EHItemsView', :path => '../'
+
+  target 'EHItemsView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
