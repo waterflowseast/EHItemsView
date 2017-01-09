@@ -13,11 +13,11 @@ EHItemsSelectionView: selection version of EHItemsView, you can single-select or
 
 ## Screenshots
 
-![](https://github.com/waterflowseast/EHItemsView/raw/master/screenshots/1.png) 
-![](https://github.com/waterflowseast/EHItemsView/raw/master/screenshots/2.png) 
-![](https://github.com/waterflowseast/EHItemsView/raw/master/screenshots/3.png)
+![](https://github.com/waterflowseast/EHItemsView/raw/master/screenshots/1.png =160x284) 
+![](https://github.com/waterflowseast/EHItemsView/raw/master/screenshots/2.png =160x284) 
+![](https://github.com/waterflowseast/EHItemsView/raw/master/screenshots/3.png =160x284)
 
-![](https://github.com/waterflowseast/EHItemsView/raw/master/screenshots/4.png) 
+![](https://github.com/waterflowseast/EHItemsView/raw/master/screenshots/4.png =160x284) 
 
 ## Example
 
