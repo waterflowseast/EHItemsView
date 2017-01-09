@@ -2,18 +2,26 @@ PODS:
   - EHItemsView (1.0.0):
     - EHItemViewCommon (~> 1.0.0)
   - EHItemViewCommon (1.0.0)
+  - Masonry (0.6.4)
+  - YYCategories (1.0.4):
+    - YYCategories/no-arc (= 1.0.4)
+  - YYCategories/no-arc (1.0.4)
 
 DEPENDENCIES:
   - EHItemsView (from `../`)
+  - Masonry (~> 0.6.4)
+  - YYCategories (~> 1.0.1)
 
 EXTERNAL SOURCES:
   EHItemsView:
     :path: "../"
 
 SPEC CHECKSUMS:
-  EHItemsView: 2b57475aecc95e8ca3824a200cd69913edaf3326
+  EHItemsView: 7859c1ebd50d48367b00489019235e27a8d08de4
   EHItemViewCommon: 75b801f64e4f5ac7bbd9972911501a4e3993b27d
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  YYCategories: 6bcd4314c6661a561410dce4a793379ebd306abd
 
-PODFILE CHECKSUM: 011d66b2ddd98269d9d4556fe59006f4d3806f29
+PODFILE CHECKSUM: 020b87cbeded4f825b98b1770e028990fe4cff08
 
 COCOAPODS: 1.0.0
