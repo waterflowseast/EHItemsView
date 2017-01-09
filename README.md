@@ -5,11 +5,27 @@
 [![License](https://img.shields.io/cocoapods/l/EHItemsView.svg?style=flat)](http://cocoapods.org/pods/EHItemsView)
 [![Platform](https://img.shields.io/cocoapods/p/EHItemsView.svg?style=flat)](http://cocoapods.org/pods/EHItemsView)
 
+## Summary
+
+EHItemsView: a view which arrages same-size item views line by line.
+
+EHItemsSelectionView: selection version of EHItemsView, you can single-select or multiple-select
+
+## Screenshots
+
+![](https://github.com/waterflowseast/EHItemsView/screenshots/1.png =160x284) 
+![](https://github.com/waterflowseast/EHItemsView/screenshots/2.png =160x284) 
+![](https://github.com/waterflowseast/EHItemsView/screenshots/3.png =160x284)
+
+![](https://github.com/waterflowseast/EHItemsView/screenshots/4.png =160x284) 
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+
+iOS 7.0+
 
 ## Installation
 
