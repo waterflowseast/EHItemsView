@@ -7,7 +7,7 @@
 
 ## Summary
 
-EHItemsView: a view which arrages same-size item views line by line.
+EHItemsView: a view which arranges same-size item views line by line.
 
 EHItemsSelectionView: selection version of EHItemsView, you can single-select or multiple-select
 

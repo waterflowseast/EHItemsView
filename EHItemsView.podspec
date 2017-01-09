@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
   s.name             = 'EHItemsView'
   s.version          = '1.0.0'
-  s.summary          = 'a view which arrages same-size item views line by line.'
+  s.summary          = 'a view which arranges same-size item views line by line.'
 
   s.description      = <<-DESC
-EHItemsView: a view which arrages same-size item views line by line.
+EHItemsView: a view which arranges same-size item views line by line.
 EHItemsSelectionView: selection version of EHItemsView, you can single-select or multiple-select
                        DESC
 
