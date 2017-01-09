@@ -1,0 +1,6 @@
+framework module EHItemsView {
+  umbrella header "EHItemsView-umbrella.h"
+
+  export *
+  module * { export * }
+}
